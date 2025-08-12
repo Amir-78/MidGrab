@@ -1,4 +1,7 @@
-# 🔥 MidGrab - Advanced Discord Token Grabber
+# 🔥 MidGrab - Advanced Discord Token Grabber  [![GitHub Stars](https://img.shields.io/github/stars/Amir-78/MidGrab?style=social)](https://github.com/Amir-78/MidGrab)
+
+⭐ **If you find this project useful, please consider giving it a star!** ⭐  
+*Helps support continued development and maintenance*
 
 ![MidGrab Preview](https://i.imgur.com/id2hD71.png)  
 *Dynamic RGB interface with real-time operation console*
