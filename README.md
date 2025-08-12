@@ -3,7 +3,7 @@
 ⭐ **If you find this project useful, please consider giving it a star!** ⭐  
 *Helps support continued development and maintenance*
 
-![MidGrab Preview](https://i.imgur.com/id2hD71.png)  
+![MidGrab Preview](https://i.imgur.com/dH3OKnV.png)  
 *Dynamic RGB interface with real-time operation console*
 
 ## 📌 Core Features
